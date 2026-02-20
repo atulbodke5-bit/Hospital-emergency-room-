@@ -21,4 +21,4 @@ Gender Distribution: Nearly equal split (Male: 53.3%, Female: 46.7%)
 Age Distribution: Fairly uniform (52-66 patients per age bracket); highest volume in 40-49 age group (66 patients)
 Department Load: 260 patients (55.4%) require no specialist referral; 107 (22.8%) to General Practice
 Specialist Demand: Orthopedics (48), Physiotherapy (17), Cardiology (13) are top referral departments
-
+https://github.com/atulbodke5-bit/Hospital-emergency-room-/blob/main/Hospital%20ER%20Analytics%20Report.pptx
